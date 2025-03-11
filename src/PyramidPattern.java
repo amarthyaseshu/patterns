@@ -17,7 +17,7 @@ public class PyramidPattern {
 
      */
     public static void main(String[] args) {
-       int n=4;
+       int n=10;
         for (int i = 0; i < n; i++) {
             int numCount1=1;
             int numCount2=i;
